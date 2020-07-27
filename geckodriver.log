@@ -1,0 +1,4 @@
+1595816177151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tarun\\AppData\\Local\\Temp\\rust_mozprofile4vCfEr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595816180764	Marionette	INFO	Listening on port 59831
+1595816180856	Marionette	WARN	TLS certificate errors will be ignored for this session
